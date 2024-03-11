@@ -1,0 +1,25 @@
+
+[
+    {
+        "username": "vishnu",
+        "age": 25,
+        "isAdmin": true
+
+    },
+    {
+        "username": "varun",
+        "age": 35,
+        "isAdmin": false
+
+    }
+]
+
+
+
+
+
+
+
+
+
+
